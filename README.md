@@ -68,5 +68,5 @@ Currently diving deeper into:
 ---
 
 ### 🐍 Snake Game Contributions
-<img src="https://snake-visualizer.vercel.app/api?s=vicky91-01&theme=light" alt="snake visualizer">
+![Snake animation](https://github.com/vicky91-01/vicky91-01/blob/output/snake.svg)
 
