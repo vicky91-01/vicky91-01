@@ -68,5 +68,10 @@ Currently diving deeper into:
 ---
 
 ### 🐍 Snake Game Contributions
-![Snake animation](https://github.com/vicky91-01/vicky91-01/blob/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vicky91-01/vicky91-01/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vicky91-01/vicky91-01/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/vicky91-01/vicky91-01/output/github-snake.svg">
+</picture>
+
 
